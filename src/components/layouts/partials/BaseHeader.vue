@@ -4,19 +4,9 @@
       <div class="flex items-center">
         <a href="/todo.it/" class="flex items-end font-bold">
           <div class="logo-gradient gradient-animation text-2xl lg:text-4xl">todo.it</div>
-          <sub class="logo-sub-gradient gradient-animation text-sm ml-2 bottom-0">
-            v{{ version }}
-          </sub>
+ 
         </a>
-      </div>
-      <a href="https://github.com/begprod/todo.it" target="_blank">
-        <img
-          src="@/assets/images/github-mark.svg"
-          class="w-7 lg:w-10 opacity-80 hover:opacity-100 transition-all duration-300"
-          alt="todo.it github"
-        />
-      </a>
-    </div>
+
   </header>
 </template>
 
